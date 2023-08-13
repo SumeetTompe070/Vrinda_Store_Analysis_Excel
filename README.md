@@ -2,7 +2,7 @@
 Project Objective:
 The Primary objective of the " Vrinda Store Sale Analysis 2022" was to gain comprehensive understanding of customer behaviour and Sales performance in 2022 and grow more sales in 2023.
 
-**while making this Project I Perform several Crucial task such as 
+#while making this Project I Perform several Crucial task such as :
 1)DATA CLEANING: Ensuring accuracy and reliability by meticuliosly cleaning and organizing raw data.
 2)DATA PROCESSING: Transforming raw data into usable formats, setting the stage for deeper analysis.
 3)DATA ANALYSIS: Conducting in-depth analysis to uncover pattern, trends, and key performance indicators.
